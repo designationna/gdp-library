@@ -1,0 +1,1 @@
+clang++ main.cpp library.cpp magazine.cpp database.cpp -o library.out -std=c++14 -Wno-c++98-compat  -Wno-padded
